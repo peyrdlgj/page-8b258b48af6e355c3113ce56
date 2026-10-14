@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e16c9c87b79ade54ae4333bc",
+  "owner": "peyrdlgj",
+  "repo": "page-8b258b48af6e355c3113ce56",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8b258b48af6e355c3113ce56",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0f9c431dbac27ade57c3de86b9a619139c9eeb3586076d5fdbf59121c69f3f49",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享是一款优质VPN加速器，提供稳定高速的网络连接服务。支持机场订阅和多种客户端下载，帮助用户轻松解锁流媒体、优化游戏体验并保障隐私安全。",
+          "AI_DESCRIPTION": "小火箭分享是一款优质VPN加速器，提供稳定高速的网络连接服务。支持机场订阅和多种客户端下载，帮助用户轻松解锁流媒体、优化游戏体验并保障隐私安全。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  background-color: #f0f0f0;\n  color: #333333;\n  line-height: 1.7;\n  margin: 0;\n  padding: 0;\n}\nmain {\n  max-width: 800px;\n  margin: 0 auto;\n  padding: 20px;\n  background: white;\n  border-radius: 8px;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n}\nh1 {\n  color: #9c27b0;\n  font-size: 2.8em;\n  text-align: center;\n  margin-bottom: 10px;\n}\nh2 {\n  color: #6a1b9a;\n  border-bottom: 2px solid #e0e0e0;\n  padding-bottom: 10px;\n  margin-top: 30px;\n}\nh3 {\n  color: #9c27b0;\n  margin-top: 20px;\n}\np {\n  margin-bottom: 15px;\n}\nul, ol {\n  padding-left: 20px;\n  margin-bottom: 15px;\n}\n.features-list {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n  gap: 15px;\n  margin: 20px 0;\n}\n.feature-card {\n  background: #f9f9f9;\n  border: 1px solid #e0e0e0;\n  padding: 15px;\n  border-radius: 6px;\n}\n.feature-card h3 {\n  margin-top: 0;\n  color: #6a1b9a;\n}\n.plan {\n  border: 2px solid #9c27b0;\n  margin: 10px 0;\n  padding: 20px;\n  background: #f9f9f9;\n  border-radius: 8px;\n}\n.plan.featured {\n  border-color: #9c27b0;\n  background: #f3e5f5;\n}\n.download-btn {\n  background: #9c27b0;\n  color: white;\n  padding: 12px 24px;\n  text-decoration: none;\n  border-radius: 4px;\n  display: inline-block;\n  margin: 10px 0;\n  font-weight: bold;\n}\n.download-btn:hover {\n  background: #7b1fa2;\n}\n@media (max-width: 600px) {\n  h1 {\n    font-size: 2.2em;\n  }\n  main {\n    padding: 15px;\n  }\n  .features-list {\n    grid-template-columns: 1fr;\n  }\n}\ndetails {\n  background: white;\n  margin: 15px 0;\n  border-radius: 6px;\n  overflow: hidden;\n  box-shadow: 0 1px 3px rgba(0,0,0,0.1);\n}\nsummary {\n  padding: 15px;\n  font-weight: bold;\n  color: #9c27b0;\n  cursor: pointer;\n}\ndetails[open] summary {\n  background: #f3e5f5;\n}\ndetails[open] > div {\n  padding: 0 15px 15px;\n  display: block;\n}\n</style>\n\n\n<main>\n<h1>小火箭分享</h1>\n<h2>品牌简介</h2>\n<p>小火箭分享是一款专业的VPN加速器，专注于为您提供高速稳定的网络连接服务。无论日常浏览还是突破地域限制，我们都致力于让您畅享无忧的上网体验。</p>\n<p>作为用户信任的网络安全品牌，小火箭分享保障数据传输安全，助力用户轻松解锁全球内容。</p>\n<h2>使用场景</h2>\n<h3>家庭娱乐</h3>\n<p>在家观看高清流媒体内容，流畅访问Netflix、YouTube等平台，无需等待加载。</p>\n<h3>游戏加速</h3>\n<p>支持IPLC专线优化，降低延迟，提升竞技游戏体验。</p>\n<h3>企业办公</h3>\n<p>团队协作时，支持多设备同时在线，确保稳定连接，避免中断。</p>\n<h3>隐私保护</h3>\n<p>加密传输，保护您的在线活动免受监控。</p>\n<h2>操作说明</h2>\n<h3>步骤1: 选择套餐</h3>\n<p>根据您的需求，选择适合的基础版、旗舰版或团队版。</p>\n<h3>步骤2: 下载客户端</h3>\n<p>访问官网，选择适合的操作系统下载客户端。</p>\n<h3>步骤3: 订阅与激活</h3>\n<p>完成支付后，立即获取订阅凭证，连接节点开始使用。</p>\n<h3>步骤4: 连接节点</h3>\n<p>在客户端中选择可用节点，享受加速服务。</p>\n<h2>套餐选择</h2>\n<p>小火箭分享提供三种灵活的套餐方案，满足不同用户需求：</p>\n<div class=\"features-list\">\n  <div class=\"plan\">\n    <h3>基础版</h3>\n    <p>¥15/月</p>\n    <p>按年付仅需 ¥150/年</p>\n    <ul>\n      <li>每月 100GB 极速流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n    <a href=\"#download\" class=\"download-btn\">立即选择基础版</a>\n  </div>\n  <div class=\"plan featured\">\n    <h3>旗舰版 <span>推荐</span></h3>\n    <p>¥35/月</p>\n    <p>按年付仅需 ¥350/年</p>\n    <ul>\n      <li>每月 300GB 极速流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7x24 优先工单支持</li>\n    </ul>\n    <a href=\"#download\" class=\"download-btn\">立即选择旗舰版</a>\n  </div>\n  <div class=\"plan\">\n    <h3>团队版</h3>\n    <p>¥85/月</p>\n    <p>按年付仅需 ¥850/年</p>\n    <ul>\n      <li>每月 1000GB 极速流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n    <a href=\"#download\" class=\"download-btn\">立即选择团队版</a>\n  </div>\n</div>\n<h2>客户端选择与下载</h2>\n<p>小火箭分享支持Windows、Mac、Android、iOS等多种客户端选择。点击下方按钮跳转至下载页面，选择您的操作系统进行下载，快速开启加速之旅。</p>\n<p><a href=\"#download\" class=\"download-btn\">下载客户端</a></p>\n<h2 id=\"faq\">常见问题</h2>\n<details>\n<summary>小火箭分享是什么？</summary>\n<p>小火箭分享是一款专业的VPN加速器，提供稳定高速的网络连接服务，帮助用户解锁流媒体、优化游戏体验并保障隐私安全。</p>\n</details>\n<details>\n<summary>如何订阅小火箭分享？</summary>\n<p>首先选择合适的套餐，然后访问官网完成支付流程，即可获得订阅凭证。订阅后立即使用客户端连接节点。</p>\n</details>\n<details>\n<summary>客户端下载地址在哪里？</summary>\n<p>您可以访问官网小火箭分享，提供多种操作系统客户端下载。选择您的设备，下载并安装后即可开始使用。</p>\n</details>\n<details>\n<summary>不同套餐有什么区别？</summary>\n<p>基础版适合个人用户，100GB流量3设备；旗舰版提供300GB流量5设备和游戏优化；团队版适合企业，1000GB流量20设备和专属服务。</p>\n</details>\n<details>\n<summary>如何保证网络稳定性？</summary>\n<p>小火箭分享使用IPLC专线和优先节点，确保7x24稳定运行。用户可享受7x24优先工单支持。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>支持Windows、Mac、Android、iOS等主流操作系统，同时在线设备数量根据套餐而定。基础版3台，旗舰版5台，团队版20台。</p>\n</details>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "eec4be410c1e3937896f75e9829864cd97341aaa29f2a75e10cff1b17af6cb49",
+          "seo": {
+            "title": "小火箭分享 - VPN加速器 机场订阅与客户端下载",
+            "keywords": "小火箭分享, VPN加速器, 机场订阅, 客户端下载, VPN梯子, 网络加速, 官网下载",
+            "description": "小火箭分享是一款优质VPN加速器，提供稳定高速的网络连接服务。支持机场订阅和多种客户端下载，帮助用户轻松解锁流媒体、优化游戏体验并保障隐私安全。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "m15748.cn",
+    "host": "p-0b0f83490f.m15748.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f277c042821f6f0aea4955d8abcf5f6567d32b081c997366154ab9cce8a74e70",
+    "sitemap.xml": "e58c2240ff966b63b0f22dd0e5425fb2683d14b010185e7396e671cc633dd758",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6888bdfb8f7c7f683d1dcf2e45a4d17fbb7a4d68f0fab4035a9112346434faa3",
+    "robots.txt": "21c93fe593c492d1a57044cc89987254f091cff5a5a457d4d7e6f8eac12b014c",
+    "6218c8e6edf53b0d98f94893c635dd97.txt": "43760d55d6750ef65845105aa6a2a9d0c7e9d07d0335c6d71725eb12d7d034bd"
+  },
+  "revision": "5251eb5f945adc44b6f76a70f68f015a5cc2b6430ff0b26f517c6ac52259ade9"
+}
